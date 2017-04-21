@@ -1,0 +1,24 @@
+NEWS
+====
+
+### 2011-08-27 Version 4 (Graken.activity) ###
+
+- Quitado el código residual al quitar los botones de navegación que generaba errores de registro
+- Traducidos "Zoom in" y "Zoom out"
+
+### 2011-08-24 Version 3 (Graken.activity) ###
+
+- Para ser fiel al juego se quitaron los botones de navegación web, atras y adelante.
+- El HTML solo mantiene publicidad y links en la página principal
+- Error de ortografía en la primer pantalla arreglado (index.html)
+
+### 2011-08-24 Version 2 (Graken.activity) ###
+
+- Subida a SugarLabs. 
+
+### 2011-08-13 Version 1 (Graken.activity) ###
+
+- Comenzando con esto
+
+- Basado en Help.Activity Version 14 (Help.activity)
+

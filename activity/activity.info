@@ -1,0 +1,7 @@
+[Activity]
+name = El Secreto de Graken
+activity_version = 4
+bundle_id = uy.com.lanave.GrakenActivity
+icon = graken
+exec = sugar-activity grakenactivity.GrakenActivity
+license = GPLv3
